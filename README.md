@@ -9,7 +9,9 @@ Manage Notes: Edit, rename, delete (with confirmation), and copy content to the 
 Custom Backgrounds: Choose colors from a predefined palette.
 Sort Notes: Sort by name, date of creation, or size.
 Display Creation Date: Shows formatted creation dates.
-🛠️ Technology Stack
+
+
+🛠️ #Technology Stack
 React Native: Cross-platform app development.
 Zustand: State management.
 rn-mmkv: High-performance local storage.
