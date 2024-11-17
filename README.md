@@ -17,3 +17,8 @@ Zustand: State management.
 rn-mmkv: High-performance local storage.
 react-native-fs: File handling for header images.
 
+
+ **Procedure to run the app** <br/>
+    npm install <br/>
+    npx react-native run-android
+
